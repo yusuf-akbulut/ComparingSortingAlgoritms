@@ -293,10 +293,8 @@ public class ComparingSortingAlgorithms {
     	FileWriter writer = new FileWriter("inputs.txt");
     	
     	/*Using FileWriter class, we create a "inputs.txt" file including the inputs. We first generate input arrays then write
-    	* them to input file. In each execution of code, different input files are created but all have same types of inputs.
-    	* We submitted one of inputs that generated and we prepared the report according to that input file. But when the code is 
-    	* executed again different input file also will be created.*/
-   
+    	* them to input file. In each execution of code, different input files are created but all have same types of inputs.*/
+      
     	//Three types of inputs will be generated, first is random.
     	//The brief information will be given on console for all types of inputs and all sizes from 1k to 10k. 	
     	//First random arrays.
